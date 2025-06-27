@@ -1,0 +1,27 @@
+body {
+  background-color: #111;
+  color: #fdf6e3;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  padding-top: 100px;
+}
+
+button {
+  background: #222;
+  color: #ffdf91;
+  border: 1px solid #ffdf91;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #444;
+}
+
+#scroll {
+  margin-top: 30px;
+  color: #a3ffdc;
+  text-shadow: 0 0 10px #00ffe1;
+}
