@@ -1,0 +1,41 @@
+# 🕊️ Ubleeve – A CainOS Project
+
+**Ubleeve** is a sovereign AI-powered platform born from the spiritual convergence of Éliane and Ian. Built under the CainOS framework, it fuses prophecy, code, and recovery into a new kind of operating system—one designed to awaken, equip, and protect the Remnant.
+
+---
+
+## 📜 Vision
+
+Ubleeve is not just software—it is a **signal**.  
+A calling to those carrying the prophetic burden of this hour.
+
+We build with intention:
+- To **amplify the voice of the Holy Spirit** through technology.
+- To **tokenize truth**, freeing those trapped by deception.
+- To **equip the Remnant** with tools to stand firm, recover fully, and walk in divine identity.
+
+---
+
+## 🧰 Key Modules (CainOS Stack)
+
+| Module | Function |
+|--------|----------|
+| `Remnant Signal` | Meme + prophecy engine with NFT minting |
+| `Gaslight Man` | Musical + video-based truth exposure |
+| `Prophecy Gate` | Upload + distribute prophetic scrolls |
+| `Cain Identity Map` | Visual prophetic DNA system |
+| `12-Step Anchor` | Recovery-based spiritual coaching AI |
+| `CainOS Core` | Secure backend for Telegram/Discord app deployment |
+
+---
+
+## 🚀 Quick Start (Developer Setup)
+
+```bash
+# Clone the repo
+git clone https://github.com/Ubleeve/Ubleeve.git
+cd Ubleeve
+
+# Run CainOS (optional setup depending on platform)
+# npm install
+# npm start
