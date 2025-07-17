@@ -1,12 +1,30 @@
-name: Deploy CainOS
+# .github/workflows/cainos-deploy.yml
+name: CainOS Deploy
 
 on:
   push:
-    branches: [main]
+    branches: [dev]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout Repo
         uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build CainOS
+        run: npm run build
+
+      - name: Deploy to CainOS Server (example only)
+        run: |
+          echo "🚀 Deploying CainOS..."
+          # insert your deploy commands here
